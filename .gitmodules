@@ -1,0 +1,6 @@
+[submodule "rab_python_packages"]
+	path = rab_python_packages
+	url = https://github.com/senjianlu/rab_python_packages.git
+[submodule "rab_steam_packages"]
+	path = rab_steam_packages
+	url = https://github.com/senjianlu/rab_steam_packages.git
